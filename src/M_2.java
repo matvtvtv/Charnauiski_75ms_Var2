@@ -9,6 +9,10 @@ public class M_2 {
         this.y = y;
     }
 
+    public M_2(String a) {
+        this.a = a;
+    }
+
     public String getA() {
         return a;
     }
